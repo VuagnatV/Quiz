@@ -56,7 +56,7 @@ export class CategoriesComponent implements OnInit {
 
   onSubmit() {
     console.log('ICI')
-    this.categoriesService.getCategorie(this.searchCategorie).subscribe({
+    this.categoriesService.getCategorieByName(this.searchCategorie).subscribe({
       next: (data) => {
         this.categories = data
         console.log(this.categories)
