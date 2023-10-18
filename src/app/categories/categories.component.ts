@@ -16,6 +16,7 @@ export class CategoriesComponent implements OnInit {
     private router: Router,
     private route: ActivatedRoute,
     private quizzService: QuizService
+    
   ) { }
 
   categories: any;
@@ -40,6 +41,7 @@ export class CategoriesComponent implements OnInit {
   chooseCategorie(name: string) {
     console.log(name)
     this.categoriesService.currentCategorie = name;
+    this.quizzService.resetQuiz();
     this.router.navigate(['/quiz', this.playerName, name]);
   }
 
