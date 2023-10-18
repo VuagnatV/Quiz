@@ -39,7 +39,7 @@ export class QuizService {
   }
 
   getQuizContent(categorie: string) {
-    this.quizContent = []
+    //this.quizContent = []
     this.http.get(`http://localhost:3000/questions?categorie=${categorie}`).subscribe((questions: any) => {
       for (const question of questions) {
         this.http.get(`http://localhost:3000/answers?questionId=${question.id}`).subscribe((answers: any) => {
