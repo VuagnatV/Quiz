@@ -1,0 +1,531 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "categorie": "Disney",
+      "questionLabel": "Complète le nom de ce film : Le Roi ..."
+    },
+    {
+      "id": 2,
+      "categorie": "Disney",
+      "questionLabel": "Complète le nom de ce film : Les ... Dalmatiens"
+    },
+    {
+      "id": 3,
+      "categorie": "Disney",
+      "questionLabel": "Complète le nom de ce film : Alice aux pays des ..."
+    },
+    {
+      "id": 4,
+      "categorie": "Disney",
+      "questionLabel": "Complète le nom de ce film : Peter ..."
+    },
+    {
+      "id": 5,
+      "categorie": "Disney",
+      "questionLabel": "Complète le nom de ce film : L'Étrange Noël de monsieur ..."
+    },
+    {
+      "id": 6,
+      "categorie": "Disney",
+      "questionLabel": "Complète le nom de ce film : Le monde de ..."
+    },
+    {
+      "id": 7,
+      "categorie": "Disney",
+      "questionLabel": "Complète le nom de ce film : ... des Bois"
+    },
+    {
+      "id": 8,
+      "categorie": "Disney",
+      "questionLabel": "Complète le nom de ce film : La Belle et la ..."
+    },
+    {
+      "id": 9,
+      "categorie": "Disney",
+      "questionLabel": "Complète le nom de ce film : Winnie ..."
+    },
+    {
+      "id": 10,
+      "categorie": "Disney",
+      "questionLabel": "Complète le nom de ce film : Lilo et ..."
+    },
+    {
+      "id": 11,
+      "categorie": "Anime",
+      "questionLabel": "Complète le nom de cet animé : Goldorack ..."
+    },
+    {
+      "id": 12,
+      "categorie": "Anime",
+      "questionLabel": "Complète le nom de cet animé : Bio..."
+    },
+    {
+      "id": 13,
+      "categorie": "Anime",
+      "questionLabel": "Complète le nom de cet animé : Detective ..."
+    },
+    {
+      "id": 14,
+      "categorie": "Anime",
+      "questionLabel": "Complète le nom de cet animé : Les Aventures de ..."
+    },
+    {
+      "id": 15,
+      "categorie": "Anime",
+      "questionLabel": "Complète le nom de cet animé : Hunter X ..."
+    },
+    {
+      "id": 16,
+      "categorie": "Anime",
+      "questionLabel": "Complète le nom de cet animé : Code ..."
+    },
+    {
+      "id": 17,
+      "categorie": "Anime",
+      "questionLabel": "Complète le nom de cet animé : Jeanne et ..."
+    },
+    {
+      "id": 18,
+      "categorie": "Anime",
+      "questionLabel": "Complète le nom de cet animé : ... le dernier dinosaure"
+    },
+    {
+      "id": 19,
+      "categorie": "Anime",
+      "questionLabel": "Complète le nom de cet animé : Olive et ..."
+    },
+    {
+      "id": 20,
+      "categorie": "Anime",
+      "questionLabel": "Complète le nom de cet animé : Dragon Ball ..."
+    }
+  ],
+  "answers": [
+    {
+      "questionId": 1,
+      "answerLabel": "Pion",
+      "isCorrect": false
+    },
+    {
+      "questionId": 1,
+      "answerLabel": "Lion",
+      "isCorrect": true
+    },
+    {
+      "questionId": 1,
+      "answerLabel": "des lions",
+      "isCorrect": false
+    },
+    {
+      "questionId": 1,
+      "answerLabel": "fou",
+      "isCorrect": false
+    },
+    {
+      "questionId": 2,
+      "answerLabel": "404",
+      "isCorrect": false
+    },
+    {
+      "questionId": 2,
+      "answerLabel": "394",
+      "isCorrect": false
+    },
+    {
+      "questionId": 2,
+      "answerLabel": "101",
+      "isCorrect": true
+    },
+    {
+      "questionId": 2,
+      "answerLabel": "42",
+      "isCorrect": false
+    },
+    {
+      "questionId": 3,
+      "answerLabel": "merveilles",
+      "isCorrect": true
+    },
+    {
+      "questionId": 3,
+      "answerLabel": "truands",
+      "isCorrect": false
+    },
+    {
+      "questionId": 3,
+      "answerLabel": "brutes",
+      "isCorrect": false
+    },
+    {
+      "questionId": 3,
+      "answerLabel": "babioles",
+      "isCorrect": false
+    },
+    {
+      "questionId": 4,
+      "answerLabel": "Ban",
+      "isCorrect": false
+    },
+    {
+      "questionId": 4,
+      "answerLabel": "Jackson",
+      "isCorrect": false
+    },
+    {
+      "questionId": 4,
+      "answerLabel": "Parker",
+      "isCorrect": false
+    },
+    {
+      "questionId": 4,
+      "answerLabel": "Pan",
+      "isCorrect": true
+    },
+    {
+      "questionId": 5,
+      "answerLabel": "Farce",
+      "isCorrect": false
+    },
+    {
+      "questionId": 5,
+      "answerLabel": "Lake",
+      "isCorrect": false
+    },
+    {
+      "questionId": 5,
+      "answerLabel": "Jack",
+      "isCorrect": true
+    },
+    {
+      "questionId": 5,
+      "answerLabel": "Drake",
+      "isCorrect": false
+    },
+    {
+      "questionId": 6,
+      "answerLabel": "Mickey",
+      "isCorrect": false
+    },
+    {
+      "questionId": 6,
+      "answerLabel": "Nemo",
+      "isCorrect": true
+    },
+    {
+      "questionId": 6,
+      "answerLabel": "Zoro",
+      "isCorrect": false
+    },
+    {
+      "questionId": 6,
+      "answerLabel": "Toto",
+      "isCorrect": false
+    },
+    {
+      "questionId": 7,
+      "answerLabel": "Rabin",
+      "isCorrect": false
+    },
+    {
+      "questionId": 7,
+      "answerLabel": "Thomas",
+      "isCorrect": false
+    },
+    {
+      "questionId": 7,
+      "answerLabel": "Robin",
+      "isCorrect": true
+    },
+    {
+      "questionId": 7,
+      "answerLabel": "Franklin",
+      "isCorrect": false
+    },
+    {
+      "questionId": 8,
+      "answerLabel": "Bête",
+      "isCorrect": true
+    },
+    {
+      "questionId": 8,
+      "answerLabel": "Brute",
+      "isCorrect": false
+    },
+    {
+      "questionId": 8,
+      "answerLabel": "Dette",
+      "isCorrect": false
+    },
+    {
+      "questionId": 8,
+      "answerLabel": "Girouette",
+      "isCorrect": false
+    },
+    {
+      "questionId": 9,
+      "answerLabel": "l'option",
+      "isCorrect": false
+    },
+    {
+      "questionId": 9,
+      "answerLabel": "la tortue",
+      "isCorrect": false
+    },
+    {
+      "questionId": 9,
+      "answerLabel": "la méduse",
+      "isCorrect": false
+    },
+    {
+      "questionId": 9,
+      "answerLabel": "l'ourson",
+      "isCorrect": true
+    },
+    {
+      "questionId": 10,
+      "answerLabel": "Mitch",
+      "isCorrect": false
+    },
+    {
+      "questionId": 10,
+      "answerLabel": "Stitch",
+      "isCorrect": true
+    },
+    {
+      "questionId": 10,
+      "answerLabel": "Scooby-Doo",
+      "isCorrect": false
+    },
+    {
+      "questionId": 10,
+      "answerLabel": "Homer",
+      "isCorrect": false
+    },
+    {
+      "questionId": 11,
+      "answerLabel": "Faux",
+      "isCorrect": false
+    },
+    {
+      "questionId": 11,
+      "answerLabel": "Go",
+      "isCorrect": true
+    },
+    {
+      "questionId": 11,
+      "answerLabel": "Va",
+      "isCorrect": false
+    },
+    {
+      "questionId": 11,
+      "answerLabel": "Vol",
+      "isCorrect": false
+    },
+    {
+      "questionId": 12,
+      "answerLabel": "Science",
+      "isCorrect": false
+    },
+    {
+      "questionId": 12,
+      "answerLabel": "Girl",
+      "isCorrect": false
+    },
+    {
+      "questionId": 12,
+      "answerLabel": "Man",
+      "isCorrect": true
+    },
+    {
+      "questionId": 12,
+      "answerLabel": "Logie",
+      "isCorrect": false
+    },
+    {
+      "questionId": 13,
+      "answerLabel": "Shinichi",
+      "isCorrect": false
+    },
+    {
+      "questionId": 13,
+      "answerLabel": "Derrick",
+      "isCorrect": false
+    },
+    {
+      "questionId": 13,
+      "answerLabel": "Sherlock",
+      "isCorrect": false
+    },
+    {
+      "questionId": 13,
+      "answerLabel": "Conan",
+      "isCorrect": true
+    },
+    {
+      "questionId": 14,
+      "answerLabel": "Milou",
+      "isCorrect": false
+    },
+    {
+      "questionId": 14,
+      "answerLabel": "Milimulou",
+      "isCorrect": false
+    },
+    {
+      "questionId": 14,
+      "answerLabel": "Tintin",
+      "isCorrect": true
+    },
+    {
+      "questionId": 14,
+      "answerLabel": "Dupon",
+      "isCorrect": false
+    },
+    {
+      "questionId": 15,
+      "answerLabel": "Hunter",
+      "isCorrect": true
+    },
+    {
+      "questionId": 15,
+      "answerLabel": "Chasseur",
+      "isCorrect": false
+    },
+    {
+      "questionId": 15,
+      "answerLabel": "Bear",
+      "isCorrect": false
+    },
+    {
+      "questionId": 15,
+      "answerLabel": "Doctor",
+      "isCorrect": false
+    },
+    {
+      "questionId": 16,
+      "answerLabel": "Lyoko",
+      "isCorrect": true
+    },
+    {
+      "questionId": 16,
+      "answerLabel": "Fonctionnel",
+      "isCorrect": false
+    },
+    {
+      "questionId": 16,
+      "answerLabel": "Zero",
+      "isCorrect": false
+    },
+    {
+      "questionId": 16,
+      "answerLabel": "Lyoco",
+      "isCorrect": false
+    },
+    {
+      "questionId": 17,
+      "answerLabel": "Fred",
+      "isCorrect": false
+    },
+    {
+      "questionId": 17,
+      "answerLabel": "Serge",
+      "isCorrect": true
+    },
+    {
+      "questionId": 17,
+      "answerLabel": "Bernadette",
+      "isCorrect": false
+    },
+    {
+      "questionId": 17,
+      "answerLabel": "Bernard",
+      "isCorrect": false
+    },
+    {
+      "questionId": 18,
+      "answerLabel": "Giscard",
+      "isCorrect": false
+    },
+    {
+      "questionId": 18,
+      "answerLabel": "Denver",
+      "isCorrect": true
+    },
+    {
+      "questionId": 18,
+      "answerLabel": "Emmanuel",
+      "isCorrect": false
+    },
+    {
+      "questionId": 18,
+      "answerLabel": "Thomas",
+      "isCorrect": false
+    },
+    {
+      "questionId": 19,
+      "answerLabel": "Dom",
+      "isCorrect": false
+    },
+    {
+      "questionId": 19,
+      "answerLabel": "Tom",
+      "isCorrect": true
+    },
+    {
+      "questionId": 19,
+      "answerLabel": "noyau",
+      "isCorrect": false
+    },
+    {
+      "questionId": 19,
+      "answerLabel": "Angel",
+      "isCorrect": false
+    },
+    {
+      "questionId": 20,
+      "answerLabel": "X",
+      "isCorrect": false
+    },
+    {
+      "questionId": 20,
+      "answerLabel": "les boules de cristales",
+      "isCorrect": false
+    },
+    {
+      "questionId": 20,
+      "answerLabel": "les méchants",
+      "isCorrect": false
+    },
+    {
+      "questionId": 20,
+      "answerLabel": "Z",
+      "isCorrect": true
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "password": "user"
+    },
+    {
+      "username": "jack",
+      "password": "jack",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "name":"Disney"
+    },
+    {
+      "name":"Anime"
+    }
+  ]
+}

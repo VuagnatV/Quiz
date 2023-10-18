@@ -1,0 +1,17 @@
+.categories {
+    @apply flex flex-col items-center justify-center;
+  
+    &_title {
+      @apply text-xl font-bold text-center mb-4;
+    }
+
+    &_container {
+        @apply flex flex-col items-center justify-center
+
+    }
+
+    &_button {
+        @apply border border-violet-500 px-4 py-2 rounded shadow hover:bg-violet-500 hover:text-white max-w-md;
+
+    }
+}
