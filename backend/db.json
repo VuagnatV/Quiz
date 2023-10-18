@@ -2,102 +2,102 @@
   "questions": [
     {
       "id": 1,
-      "categorie": "Disney",
+      "categorieId": 1,
       "questionLabel": "Complète le nom de ce film : Le Roi ..."
     },
     {
       "id": 2,
-      "categorie": "Disney",
+      "categorieId": 1,
       "questionLabel": "Complète le nom de ce film : Les ... Dalmatiens"
     },
     {
       "id": 3,
-      "categorie": "Disney",
+      "categorieId": 1,
       "questionLabel": "Complète le nom de ce film : Alice aux pays des ..."
     },
     {
       "id": 4,
-      "categorie": "Disney",
+      "categorieId": 1,
       "questionLabel": "Complète le nom de ce film : Peter ..."
     },
     {
       "id": 5,
-      "categorie": "Disney",
+      "categorieId": 1,
       "questionLabel": "Complète le nom de ce film : L'Étrange Noël de monsieur ..."
     },
     {
       "id": 6,
-      "categorie": "Disney",
+      "categorieId": 1,
       "questionLabel": "Complète le nom de ce film : Le monde de ..."
     },
     {
       "id": 7,
-      "categorie": "Disney",
+      "categorieId": 1,
       "questionLabel": "Complète le nom de ce film : ... des Bois"
     },
     {
       "id": 8,
-      "categorie": "Disney",
+      "categorieId": 1,
       "questionLabel": "Complète le nom de ce film : La Belle et la ..."
     },
     {
       "id": 9,
-      "categorie": "Disney",
+      "categorieId": 1,
       "questionLabel": "Complète le nom de ce film : Winnie ..."
     },
     {
       "id": 10,
-      "categorie": "Disney",
+      "categorieId": 1,
       "questionLabel": "Complète le nom de ce film : Lilo et ..."
     },
     {
       "id": 11,
-      "categorie": "Anime",
+      "categorieId": 2,
       "questionLabel": "Complète le nom de cet animé : Goldorack ..."
     },
     {
       "id": 12,
-      "categorie": "Anime",
+      "categorieId": 2,
       "questionLabel": "Complète le nom de cet animé : Bio..."
     },
     {
       "id": 13,
-      "categorie": "Anime",
+      "categorieId": 2,
       "questionLabel": "Complète le nom de cet animé : Detective ..."
     },
     {
       "id": 14,
-      "categorie": "Anime",
+      "categorieId": 2,
       "questionLabel": "Complète le nom de cet animé : Les Aventures de ..."
     },
     {
       "id": 15,
-      "categorie": "Anime",
+      "categorieId": 2,
       "questionLabel": "Complète le nom de cet animé : Hunter X ..."
     },
     {
       "id": 16,
-      "categorie": "Anime",
+      "categorieId": 2,
       "questionLabel": "Complète le nom de cet animé : Code ..."
     },
     {
       "id": 17,
-      "categorie": "Anime",
+      "categorieId": 2,
       "questionLabel": "Complète le nom de cet animé : Jeanne et ..."
     },
     {
       "id": 18,
-      "categorie": "Anime",
+      "categorieId": 2,
       "questionLabel": "Complète le nom de cet animé : ... le dernier dinosaure"
     },
     {
       "id": 19,
-      "categorie": "Anime",
+      "categorieId": 2,
       "questionLabel": "Complète le nom de cet animé : Olive et ..."
     },
     {
       "id": 20,
-      "categorie": "Anime",
+      "categorieId": 2,
       "questionLabel": "Complète le nom de cet animé : Dragon Ball ..."
     }
   ],
@@ -522,9 +522,11 @@
   ],
   "categories": [
     {
+      "id": 1,
       "name":"Disney"
     },
     {
+      "id": 2,
       "name":"Anime"
     }
   ]

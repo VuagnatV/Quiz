@@ -30,6 +30,10 @@ export class CategoriesComponent implements OnInit {
       this.playerName = params['playerName'];
     });
 
+    this.initializeCategories()
+  }
+
+  initializeCategories() {
     this.categoriesService.getCategories().subscribe({
       next: (data) => {
         this.categories = data
@@ -38,11 +42,16 @@ export class CategoriesComponent implements OnInit {
     })
   }
 
-  chooseCategorie(name: string) {
-    console.log(name)
-    this.categoriesService.currentCategorie = name;
+  cancelFilter() {
+    this.searchCategorie = ''
+    this.initializeCategories()
+  }
+
+  chooseCategorie(id: number) {
+    //console.log(name)
+    //this.categoriesService.currentCategorie = name;
     this.quizzService.resetQuiz();
-    this.router.navigate(['/quiz', this.playerName, name]);
+    this.router.navigate(['/quiz', this.playerName, id]);
   }
 
   onSubmit() {

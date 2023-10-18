@@ -1,10 +1,12 @@
 <section class="categories">
     <h2 class="categories_title">Veuillez choisir une catégorie : </h2>
-    <form (ngSubmit)="onSubmit()">
+    <form #filter="ngForm" (ngSubmit)="onSubmit()">
         <input type="text" [(ngModel)]="searchCategorie" name="searchCategorie"  placeholder="Rechercher une catégorie.">
         <button type="submit">Submit</button>
+        
     </form>
+    <button (click)="initializeCategories()">Cancel</button>
     <section class="categories_container" *ngFor="let categorie of categories;">
-        <button class="categories_button" (click)="chooseCategorie(categorie.name)">{{categorie.name}}</button>
+        <button class="categories_button" (click)="chooseCategorie(categorie.id)">{{categorie.name}}</button>
     </section>
 </section>
